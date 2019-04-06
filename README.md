@@ -2,7 +2,7 @@
 
 > define feature groups to improve conditional compilation management
 
-[![Build Status](https://travis-ci.org/little-arhat/cfg_feature_groups.svg?branch=master)](https://travis-ci.org/little-arhat/cfg_feature_groups)
+[![Build Status](https://travis-ci.org/little-arhat/cfg-feature-groups.svg?branch=master)](https://travis-ci.org/little-arhat/cfg-feature-groups)
 [![crates.io](http://meritbadge.herokuapp.com/cfg_feature_groups?style=flat-square)](https://crates.io/crates/cfg_feature_groups)
 
 This library allows one to define feature group, that may only take one
