@@ -1,6 +1,6 @@
 [package]
 name = "cfg_feature_groups"
-version = "0.1.0"
+version = "0.1.1-alpha.0"
 authors = ["Roma Sokolov <sokolov.r.v@gmail.com>"]
 edition = "2018"
 description = "Build helper for defining feature groups"
