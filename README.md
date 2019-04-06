@@ -19,7 +19,7 @@ and turned into cfg attributes:
 
 ```Cargo.toml
 [build-dependencies]
-cfg_feature_groups = "...";
+cfg_feature_groups = "..."
 ```
 
 ```build.rs
