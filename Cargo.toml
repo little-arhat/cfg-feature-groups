@@ -1,0 +1,16 @@
+[package]
+name = "cfg_feature_groups"
+version = "0.1.0"
+authors = ["Roma Sokolov <sokolov.r.v@gmail.com>"]
+edition = "2018"
+description = "Build helper for defining feature groups"
+keywords = ["build.rs", "build", "conditional compilation"]
+license = "MIT"
+readme = "Readme.md"
+repository = "https://github.com/little-arhat/cfg-feature-groups"
+
+[badges]
+travis-ci = { repository = "little-arhat/cfg-feature-groups" }
+
+[dependencies]
+toml = "0.5.0"

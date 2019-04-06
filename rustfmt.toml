@@ -1,0 +1,7 @@
+edition = "2018"
+reorder_modules = true
+reorder_imports = true
+wrap_comments = true
+comment_width = 80
+max_width = 80
+tab_spaces = 4

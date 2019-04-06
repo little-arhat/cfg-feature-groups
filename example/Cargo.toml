@@ -1,0 +1,18 @@
+[package]
+name = "cfg_test"
+version = "0.1.0"
+authors = ["Roma Sokolov <sokolov.r.v@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[features]
+opt1 = []
+opt2 = []
+opt3 = []
+
+[package.metadata.feature_groups]
+log = ["opt1", "opt2", "opt3"]
+
+[build-dependencies]
+cfg_feature_groups = {path = "../"}
